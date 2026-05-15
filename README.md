@@ -29,7 +29,7 @@
 
 ### Who I Am
 
-Computer Science undergraduate at **Ramakrishna Mission Vidyamandira** (SGPA: 9.025), building production-grade systems at the intersection of **Artificial Intelligence** and **Cybersecurity**.
+Computer Science undergraduate at **Ramakrishna Mission Vidyamandira**, building production-grade systems at the intersection of **Artificial Intelligence** and **Cybersecurity**.
 
 Currently working as a **Security Engineer Intern at FaceOff**, where I work on application security, threat intelligence, and darkweb monitoring. Simultaneously active in the **RKMV R&D Cell**, building AI-powered tools with real-world utility.
 
@@ -45,8 +45,6 @@ I don't just experiment — I ship. From automated deepfake detection pipelines 
 <img src="https://img.shields.io/badge/Focus-AI_%2B_Security-1A56A0?style=for-the-badge"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Internship-Security_Engineer-238636?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/SGPA-9.025_%2F_10-7c3aed?style=for-the-badge"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Year-2nd_Year_UG-dc2626?style=for-the-badge"/>
 
@@ -114,9 +112,6 @@ I don't just experiment — I ship. From automated deepfake detection pipelines 
 <tr>
 <td width="65%" valign="top">
 
-### Security Engineer Intern — FaceOff (Startup)
-`2025 – Present`
-
 <img src="https://img.shields.io/badge/Application_Security-1A56A0?style=flat-square"/>  <img src="https://img.shields.io/badge/Threat_Intelligence-7c3aed?style=flat-square"/>  <img src="https://img.shields.io/badge/Darkweb_Monitoring-dc2626?style=flat-square"/>
 
 - Conduct application security assessments using **Burp Suite** and OWASP methodologies to identify vulnerabilities in client-facing web apps.
@@ -179,8 +174,7 @@ I don't just experiment — I ship. From automated deepfake detection pipelines 
 
 <br/>
 
-`Python` `Shodan API`
-`theHarvester` `WHOIS`
+`Python` 
 `Requests` `MongoDB`
 
 </td>
@@ -190,8 +184,8 @@ I don't just experiment — I ship. From automated deepfake detection pipelines 
 
 <img src="https://img.shields.io/badge/8+-Data_Sources-1A56A0?style=flat-square"/>  <img src="https://img.shields.io/badge/~70%25-Recon_Time_Saved-238636?style=flat-square"/>  <img src="https://img.shields.io/badge/Minimal_Identifier-Input-7c3aed?style=flat-square"/>
 
-- Multi-layered OSINT tool that auto-aggregates digital footprints (social media, WHOIS, breach databases, IP records) from a minimal identifier such as an email or username.
-- Integrated **8+ data sources** with cross-reference analysis and deduplication — cutting manual recon time by ~70%.
+- Multi-layered OSINT tool that auto-aggregates digital footprints (social media, breach databases, IP records) from a minimal identifier such as an email or username.
+- Integrated **10+ data sources** with cross-reference analysis and deduplication — cutting manual recon time by ~70%.
 - Scoring logic prioritises high-confidence findings and exports a unified structured report.
 
 </td>
@@ -261,13 +255,6 @@ I don't just experiment — I ship. From automated deepfake detection pipelines 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SPanja6696&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1A56A0&point=ffffff&area=true&area_color=1A56A0" width="98%"/>
 </p>
 
-<h3 align="center">Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SPanja6696/SPanja6696/output/github-snake-dark.svg" width="98%" alt="Snake animation"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <!-- ═══════════════ QUOTE ═══════════════ -->
 
