@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=I+build+at+the+intersection+of+AI+and+Security.;CV+models%2C+OSINT%2C+Deepfakes+-+shipped%2C+not+just+trained.;Security+Engineer+Intern+%40+FaceOff.;2nd-year+undergrad.+Building+in+production."/>
-  </a>
+  <img src="terminal.svg" width="100%"/>
 </p>
 
 <p align="center">
