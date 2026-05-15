@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=I+build+at+the+intersection+of+AI+and+Security.;Deepfakes%2C+OSINT%2C+CV+models+%E2%80%94+all+shipped%2C+not+just+trained.;Security+Engineer+Intern+%40+FaceOff.;2nd-year+undergrad.+9.025+SGPA.+Building+in+production." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=I+build+at+the+intersection+of+AI+and+Security.;Deepfakes%2C+OSINT%2C+CV+models+%E2%80%94+all+shipped%2C+not+just+trained.;Security+Engineer+Intern+%40+.;2nd-year+undergrad.+Building+in+production." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp; -->
   <a href="mailto:somdiptapanja4@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/SPanja6696"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -31,7 +31,7 @@
 
 Computer Science undergraduate at **Ramakrishna Mission Vidyamandira**, building production-grade systems at the intersection of **Artificial Intelligence** and **Cybersecurity**.
 
-Currently working as a **Security Engineer Intern at FaceOff**, where I work on application security, threat intelligence, and darkweb monitoring. Simultaneously active in the **RKMV R&D Cell**, building AI-powered tools with real-world utility.
+Currently working as a **Security Engineer Intern at FaceOff**, where I work on application security, threat intelligence, and darkweb monitoring. Simultaneously active in the **Tech Society of RKMV**, building AI-powered tools with real-world utility.
 
 I don't just experiment — I ship. From automated deepfake detection pipelines to multi-source OSINT engines and RFID-based physical security systems, my work spans the full stack: model training, backend engineering, and deployment.
 
