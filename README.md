@@ -44,7 +44,7 @@ I don't just experiment — I ship. From automated deepfake detection pipelines 
 <br/><br/>
 <img src="https://img.shields.io/badge/Internship-Security_Engineer-238636?style=for-the-badge"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Year-2nd_Year_UG-dc2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Year-3rd_Year_UG-dc2626?style=for-the-badge"/>
 
 </td>
 </tr>
